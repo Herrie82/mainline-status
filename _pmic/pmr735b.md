@@ -22,7 +22,7 @@ pmic-lpg: N/A
 pmic-mpp: N/A
 pmic-pon: N/A
 pmic-qnovo: N/A
-pmic-regulators: N
+pmic-regulators: next-6.17
 pmic-resin: N/A
 pmic-rtc: N/A
 pmic-tempalarm: 5.18
@@ -31,4 +31,4 @@ pmic-usb-typecpd: N/A
 pmic-watchdog: N/A
 pmic-wled: N/A
 ---
-This PMIC is usually used with the [SM8450](../soc/sm8450) & [SM8350](../soc/sm8350) platforms.
+This PMIC is usually used with the [SM8450](../soc/sm8450), [SM8350](../soc/sm8350) and [Milos](../soc/milos) platforms.
