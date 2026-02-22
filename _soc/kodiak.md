@@ -97,3 +97,4 @@ Tested boards:
 * Qualcomm RB3 Gen 2
 * Fairphone 5
 * SHIFTphone 8
+* Thundercomm RUBIK Pi 3
