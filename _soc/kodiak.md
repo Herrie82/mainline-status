@@ -91,9 +91,10 @@ status-usb-usb4:
 status-usb-usbotg: 6.9
 status-video-venus: 5.17
 status-watchdog: 5.13
-pmic: pm7325, pm8350c, pmk8350, pmr735a
+pmic: pm7250b, pm7325, pm8350c, pmk8350, pmr735a
 ---
 Tested boards:
 * Qualcomm RB3 Gen 2
 * Fairphone 5
 * SHIFTphone 8
+* Thundercomm RUBIK Pi 3
