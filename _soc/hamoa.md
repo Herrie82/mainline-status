@@ -1,6 +1,6 @@
 ---
 name: Hamoa
-skus: [X1E80100, X1E78100, X1E001DE]
+skus: [X1E80100, X1E001DE, X1E78100, X1E84100]
 fullname: Snapdragon X Elite
 layout: soc
 status-audio-adspaudio: 6.11

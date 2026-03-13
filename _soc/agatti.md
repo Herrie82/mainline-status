@@ -1,6 +1,6 @@
 ---
 name: Agatti
-skus: [QCM2290, QRB2210]
+skus: [QCM2290, QCS2290, QRB2210]
 layout: soc
 status-audio-adspaudio: 6.17
 status-audio-adspelite: N/A

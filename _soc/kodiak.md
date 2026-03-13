@@ -1,6 +1,6 @@
 ---
 name: Kodiak
-skus: [SC7280, SM7325, QCM6490, QCS6490]
+skus: [SC7280, SM7325, QCM5430, QCM6490, QCS5430, QCS6490]
 fullname: Snapdragon 7c+ Gen 3 (aka 778G)
 layout: soc
 status-audio-adspaudio: 6.18
