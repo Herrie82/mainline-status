@@ -1,6 +1,6 @@
 ---
 name: Kamorta
-skus: [SM6115, QRB4210]
+skus: [SM6115, QCM4290, QCS4290, QRB4210]
 fullname: Snapdragon 662
 layout: soc
 status-audio-adspaudio: N/A
