@@ -225,6 +225,8 @@ dma:
       name: GPI
     bam:
       name: BAM
+    adm:
+      name: ADM
 qfprom:
   name: QFPROM
 powerthermal:

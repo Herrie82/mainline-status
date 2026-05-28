@@ -50,6 +50,7 @@ status-display-hdmicec: N/A
 status-display-gpu: 6.10
 status-display-gpu-comment: DT bits in 6.11
 status-display-lvds: N/A
+status-dma-adm: N/A
 status-dma-bam: N
 status-dma-gpi: 6.8
 status-gnss:

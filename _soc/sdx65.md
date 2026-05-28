@@ -47,6 +47,7 @@ status-display-hdmiaudio: N/A
 status-display-hdmicec: N/A
 status-display-kgsl: N/A
 status-display-lvds: N/A
+status-dma-adm: N/A
 status-dma-bam: 6.0
 status-dma-gpi: N/A
 status-gnss: N/A

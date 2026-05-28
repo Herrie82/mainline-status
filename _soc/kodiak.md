@@ -50,6 +50,7 @@ status-display-hdmiaudio: N/A
 status-display-hdmicec: N/A
 status-display-gpu: 5.16
 status-display-lvds: N/A
+status-dma-adm: N/A
 status-dma-bam:
 status-dma-gpi: 5.19
 status-gnss:

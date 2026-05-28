@@ -43,6 +43,7 @@ status-display-hdmi: N/A
 status-display-hdmiaudio: N/A
 status-display-hdmicec: N/A
 status-display-lvds: N/A
+status-dma-adm: N/A
 status-dma-bam: 6.13
 status-dma-gpi: 6.13
 status-gnss: N
