@@ -88,6 +88,7 @@ status-usb-typec: WIP
 status-usb-usb4:
 status-usb-usbotg:
 status-video-venus: N/A
+status-video-vidc: N/A
 status-watchdog: 6.0
 pmic: pmk8350, pm8150b, pmx65
 ---

@@ -91,6 +91,7 @@ status-usb-typec: N/A
 status-usb-usb4: N/A
 status-usb-usbotg: N/A
 status-video-venus: 6.16
+status-video-vidc: N/A
 status-video-venus-comment: IRIS Driver
 status-watchdog: 6.14
 pmic:

@@ -90,6 +90,7 @@ status-usb-typec: N/A
 status-usb-usb4: N/A
 status-usb-usbotg: WIP
 status-video-venus: 6.18
+status-video-vidc: N/A
 status-watchdog: 6.14
 pmic: pm8150
 ---

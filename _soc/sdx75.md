@@ -89,6 +89,7 @@ status-usb-typec: WIP
 status-usb-usb4: N/A
 status-usb-usbotg: WIP
 status-video-venus: N/A
+status-video-vidc: N/A
 status-watchdog: WIP
 pmic: pm7550ba, pmk8550, pmx75
 ---

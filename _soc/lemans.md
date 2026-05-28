@@ -79,6 +79,7 @@ status-usb: 6.5
 status-usb-hostmode: 6.5
 status-usb-periphmode: 6.5
 status-video-venus: N
+status-video-vidc: N/A
 status-watchdog: 6.5
 pmic: pmm8654au
 ---

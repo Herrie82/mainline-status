@@ -91,6 +91,7 @@ status-usb-typec: 6.9
 status-usb-usb4: N/A
 status-usb-usbotg: 6.9
 status-video-venus: N/A
+status-video-vidc: N/A
 status-watchdog: 6.3
 ---
 Tested Boards:

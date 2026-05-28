@@ -92,6 +92,7 @@ status-usb-typec: 6.9
 status-usb-usb4:
 status-usb-usbotg: 6.9
 status-video-venus: 5.17
+status-video-vidc: N/A
 status-watchdog: 5.13
 pmic: pm7250b, pm7325, pm8350c, pmk8350, pmr735a
 ---

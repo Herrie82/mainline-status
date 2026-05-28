@@ -92,6 +92,7 @@ status-usb-typec: 6.10
 status-usb-usb4: N/A
 status-usb-usbotg: 6.10
 status-video-venus: 6.18
+status-video-vidc: N/A
 status-watchdog: 6.4
 pmic: pm4125
 ---

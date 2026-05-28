@@ -208,6 +208,9 @@ video:
     venus:
       name: Venus
       intop: True
+    vidc:
+      name: VIDC
+      intop: True
 watchdog:
   name: Watchdog
   intop: True

@@ -100,6 +100,7 @@ status-usb-typec: 7.0
 status-usb-usb4: N/A
 status-usb-usbotg: N/A
 status-video-venus:
+status-video-vidc: N/A
 status-watchdog: N/A
 pmic: pm7550, pm8550vs, pmiv0104, pmk8550, pmr735b
 ---

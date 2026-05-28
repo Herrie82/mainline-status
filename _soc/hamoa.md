@@ -92,6 +92,7 @@ status-usb-typec: 6.11
 status-usb-usb4:
 status-usb-usbotg: 6.11
 status-video-venus: N
+status-video-vidc: N/A
 status-watchdog: 6.15
 pmic: pm8550, pm8550ve, pmc8380, smb2360
 ---
